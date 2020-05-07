@@ -13,7 +13,8 @@ module.exports = {
   variants: {
     borderWidth: ['last'],
     backgroundColor: ['even', 'hover'],
-    margin: ['last']
+    margin: ['last'],
+    borderWidth: ['responsive']
   },
   plugins: []
 }
